@@ -1,7 +1,7 @@
-﻿{
+{
   "name": "smartroute-backend",
   "version": "1.0.0",
-  "description": "SmartRoute AI backend for real India-wide geocoding and road routing via OpenRouteService",
+  "description": "SmartRoute AI backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
